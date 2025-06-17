@@ -7,7 +7,7 @@ from langchain_core.prompts import PromptTemplate
 
 from langchain_ollama import ChatOllama
 
-model = "deepseek-r1:7b"
+model = "llama3.2:latest"
 llm = ChatOllama(model=model, base_url="http://localhost:11434")
 
 ### grader node

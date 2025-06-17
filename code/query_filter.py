@@ -3,7 +3,7 @@ from langchain_core.runnables import RunnablePassthrough
 from langchain_ollama import ChatOllama
 
 # Step 1: Initialize the LLM
-model = "deepseek-r1:7b"
+model = "llama3.2:latest"
 llm = ChatOllama(model=model, base_url="http://localhost:11434")
 
 # Step 2: Define the prompt template with examples
