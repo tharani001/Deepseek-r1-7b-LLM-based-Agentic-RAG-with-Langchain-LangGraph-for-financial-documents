@@ -16,19 +16,3 @@ pydantic==2.11.5
 python-dotenv==1.1.0
 requests==2.32.3
 scipy==1.15.3
-# tokenizers==0.21.1
-# torch==2.5.1+cu118
-transformers==4.52.4
-trl==0.18.2
-typer==0.16.0
-typing-inspect==0.9.0
-typing-inspection==0.4.1
-typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_typing_extensions_1748959427/work
-tzdata==2025.2
-urllib3==2.4.0
-wcwidth @ file:///home/conda/feedstock_root/build_artifacts/wcwidth_1733231326287/work
-XlsxWriter==3.2.3
-xxhash==3.5.0
-yarl==1.20.0
-zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1748277385522/work
-zstandard==0.23.0
